@@ -7,6 +7,8 @@ A Solidity smart contract for minting and managing NFTs that represent research 
 ## Deployed Contracts
 **CELO Mainnet:** 0x5Ed6240fCC0B2A231887024321Cc9481ba07f3c6
 
+[see the deployed contract on celoscan...](https://celoscan.io/address/0x5ed6240fcc0b2a231887024321cc9481ba07f3c6)
+
 **Ethereum Sepolia:** 0x1Ad2317DEBD2ac4730641A1E317B204bd2fEeFA8
 
 
