@@ -28,6 +28,14 @@ The Research Contreebution NFT contract allows for the creation, transfer, and m
 - **Solidity Version**: ^0.8.20
 - **OpenZeppelin Version**: 5.0.0
 
+## Instructions to deploy on CELO
+
+For Celo L1 Remix does not support Solidity compiler version 0.8.20 and above for EVM versions above Paris.
+
+A workaround is to go into the advanced settings for the compiler in Remix and choose Paris as the EVM version.
+
+[see more at CELO documentation](https://docs.celo.org/developer/deploy/remix)
+
 ## Functions
 
 ### `constructor(address initialOwner)`
