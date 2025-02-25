@@ -2,6 +2,8 @@
 
 A Solidity smart contract for minting and managing NFTs that represent research contributions on Treekipedia. Built on the ERC721 standard.
 
+<img src="https://gpbr.infura-ipfs.io/ipfs/bafkreibkta2e54ddqjlrmxmacjvqcpj7w6o3a4oww6ea7hldjazio22c3e" alt="Alt text" width="500px" height="auto">
+
 ## Deployed Contracts
 **Ethereum Sepolia:** 0x1Ad2317DEBD2ac4730641A1E317B204bd2fEeFA8
 
